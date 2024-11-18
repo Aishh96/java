@@ -1,0 +1,3 @@
+This is a java file
+To compile and run we have to use javac filename.java
+java filename.java
